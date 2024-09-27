@@ -1,0 +1,15 @@
+artifact_uri: file:///content/mlruns/0/33d06e1acd524cf891a37f897c68a400/artifacts
+end_time: 1727412603920
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 33d06e1acd524cf891a37f897c68a400
+run_name: bittersweet-roo-951
+run_uuid: 33d06e1acd524cf891a37f897c68a400
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1727412125150
+status: 3
+tags: []
+user_id: root
